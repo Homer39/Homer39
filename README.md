@@ -1,4 +1,13 @@
-### Hi there 👋
+### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, 𝕀'𝕞 𝕍𝕝𝕒𝕕
+ℙ𝕪𝕥𝕙𝕠𝕟-𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕊𝕥𝕦𝕕𝕖𝕟𝕥
+
+Мой стек
+
+<img src="https://img.shields.io/badge/Pyhon-purple?style=for-the-badge&logo=python&logoColor=gold"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Homer39)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Homer39/Homer39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
