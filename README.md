@@ -1,4 +1,4 @@
-### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, mi name is 𝕍𝕝𝕒𝕕
+### <h1 align="centre"> ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, mi name is 𝕍𝕝𝕒𝕕 <h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ℙ𝕪𝕥𝕙𝕠𝕟+𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣+𝕊𝕥𝕦𝕕𝕖𝕟𝕥)](https://git.io/typing-svg)
 
 🌱 I’m currently learning Django
@@ -12,6 +12,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+- 📫 How to reach me: [@vlad_izlove](https://t.me/vlad_izlove "Telegram channel")
+- [![Build Status](https://t.me/vlad_izlove)](https://t.me/vlad_izlove)
 <!--
 **Homer39/Homer39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
