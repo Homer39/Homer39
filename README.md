@@ -1,5 +1,6 @@
 ### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, mi name is 𝕍𝕝𝕒𝕕
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ℙ𝕪𝕥𝕙𝕠𝕟+𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣+𝕊𝕥𝕦𝕕𝕖𝕟𝕥)](https://git.io/typing-svg)
+
 🌱 I’m currently learning Django
 
 Мой стек
