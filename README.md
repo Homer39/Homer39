@@ -14,7 +14,8 @@
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-- 📫 How to reach me: <a href="https://t.me/vlad_izlove"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+- 📫 My TG: <a href="https://t.me/vlad_izlove"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+- 📸 My inst: <a href="https://instagram.com/vlad_izlove?igshid=MmIzYWVlNDQ5Yg=="><img src="https://img.shields.io/badge/instagram-800080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!--
 **Homer39/Homer39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
