@@ -16,21 +16,22 @@
 <img src="https://img.shields.io/badge/Pyhon-purple?style=for-the-badge&logo=python&logoColor=gold"/> <img src="https://img.shields.io/badge/Pytest-purple?style=for-the-badge&logo=Pytest&logoColor=Aquamarine"/> <img src="https://img.shields.io/badge/linux-purple?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=FFFACD"/>
 <img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS3&logoColor=6A5ACD"/> <img src="https://img.shields.io/badge/GIt-purple?style=for-the-badge&logo=Git&logoColor=DarkOrange"/>
 </div>
-  
-Random daily joke:
-  
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-  
+
 <div id="badges", align="center"></br>
-  <p> Contact me </p>  
+  <p>Contact me</p>  
   <a href=""https://t.me/vlad_izlove">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge"/>
   </a>
   <a href="https://instagram.com/vlad_izlove?igshid=MmIzYWVlNDQ5Yg==">
     <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  </div></br>
+
+<div align='center'>  
+<p>Random daily joke:<p>  
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </div>
 
 <!--
 **Homer39/Homer39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
