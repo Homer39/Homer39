@@ -26,6 +26,8 @@
   <a href="https://instagram.com/vlad_izlove?igshid=MmIzYWVlNDQ5Yg==">
     <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </br>
+<img src="https://komarev.com/ghpvc/?username=Homer39&style=flat-square&color=blue" alt=""/>
   </div></br>
 
 <div align='center'>  
