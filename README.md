@@ -1,5 +1,9 @@
 ### <h1 align="center"> ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 𝕍𝕝𝕒𝕕 <h1>
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ℙ𝕪𝕥𝕙𝕠𝕟+𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣+𝕊𝕥𝕦𝕕𝕖𝕟𝕥)](https://git.io/typing-svg)
+</div>
 
 🌱 I’m currently learning Django
   
