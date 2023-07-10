@@ -14,7 +14,7 @@
   <p>Мой стек</p>
 
 <img src="https://img.shields.io/badge/Pyhon-purple?style=for-the-badge&logo=python&logoColor=gold"/> <img src="https://img.shields.io/badge/Pytest-purple?style=for-the-badge&logo=Pytest&logoColor=Aquamarine"/> <img src="https://img.shields.io/badge/linux-purple?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=FFFACD"/>
-<img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS3&logoColor=6A5ACD"/> <img src="https://img.shields.io/badge/GIt-purple?style=for-the-badge&logo=Git&logoColor=DarkOrange"/>
+<img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS3&logoColor=6A5ACD"/> <img src="https://img.shields.io/badge/GIt-purple?style=for-the-badge&logo=Git&logoColor=DarkOrange"/> <img src="https://img.shields.io/badge/Django-purple?style=for-the-badge&logo=Django&logoColor=DarkOrange"/>
 </div>
 
 
