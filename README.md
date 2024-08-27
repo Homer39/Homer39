@@ -30,11 +30,6 @@
 <img src="https://komarev.com/ghpvc/?username=Homer39&style=flat-square&color=blue" alt=""/>
   </div></br>
 
-<div align='center'>  
-<p>Random daily joke:<p>  
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
 <hr>
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homer39&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Homer's Top langs" height="200">
